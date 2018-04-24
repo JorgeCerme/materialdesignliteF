@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "fulltemplateF"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "fulltemplateF"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "fulltemplateF"
+    }
+  }
+}
